@@ -7,3 +7,4 @@ This dashboard was created during the chapter's 2 lab "First Steps with Microsof
 4. What was the average discount on sales by product subcategory?
 5. Which countries had the highest average sales value?
 ## Dashboard Visualization
+![](https://github.com/joaoambrozetto/Dashboards-PowerBI-Data-Science-Academy/blob/main/Global%20Sales%20Analytics%20Dashboard/src/dashboard.gif)
